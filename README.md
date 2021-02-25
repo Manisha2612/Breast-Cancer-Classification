@@ -14,7 +14,25 @@ data (80%)
 4- Built a model using rbf kernal and evaluated the accuracy on the test data (87%)
 
 
-Data Visualization and boundaries :
+Data Visualization :
+
+Clusters:
+<img src='picture1.png'/>
+
+Correlation between all predictors:
+<img src='correlation.png'/>
+
+Linear SVM Boundary:
+<img src='linearsvm.png'/>
+
+Polynomila Kernal SVM Boundary:
+<img src='poly.png'/>
+
+RBF Kernal SVM Boundaries with C=2 gamma=0.1:
+<img src='rbf_c2G0.1.png'/>
+
+RBF Kernal SVM Boundaries with C=40 gamma=0.1:
+<img src='rbf_c40G0.1.png'/>
 
 
 
