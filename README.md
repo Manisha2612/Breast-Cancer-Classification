@@ -17,7 +17,7 @@ data (80%)
 Data Visualization :
 
 Clusters:
-<img src='picture1.png'/>
+<img src='Picture1.png'/>
 
 Correlation between all predictors:
 <img src='correlation.png'/>
@@ -26,13 +26,13 @@ Linear SVM Boundary:
 <img src='linearsvm.png'/>
 
 Polynomila Kernal SVM Boundary:
-<img src='poly.png'/>
+<img src='poly svm.png'/>
 
 RBF Kernal SVM Boundaries with C=2 gamma=0.1:
 <img src='rbf_c2G0.1.png'/>
 
 RBF Kernal SVM Boundaries with C=40 gamma=0.1:
-<img src='rbf_c40G0.1.png'/>
+<img src='rbf_c40g0.1.PNG/>
 
 
 
