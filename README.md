@@ -32,7 +32,7 @@ RBF Kernal SVM Boundaries with C=2 gamma=0.1:
 <img src='rbf_c2G0.1.png'/>
 
 RBF Kernal SVM Boundaries with C=40 gamma=0.1:
-<img src='rbf_c40g0.1.PNG/>
+<img src='rbf_c40g0.1.PNG'/>
 
 
 
