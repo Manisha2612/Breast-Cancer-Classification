@@ -34,6 +34,12 @@ RBF Kernal SVM Boundaries with C=2 gamma=0.1:
 RBF Kernal SVM Boundaries with C=40 gamma=0.1:
 <img src='rbf_c40g0.1.PNG'/>
 
+Final Results : 
+
+The kernel function who has the best result is the linear function. However, based on the visualization plots, we can tell the most of data set cannot be separated linearly
+The size of dataset is way too small which might lead to the inaccurate results. Because of the small size, the validation set only has 20% of the data set to test on. 
+
+
 
 
 
